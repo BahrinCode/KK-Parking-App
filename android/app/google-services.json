@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "115848099630",
+    "project_id": "qrpark-e1ebd",
+    "storage_bucket": "qrpark-e1ebd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115848099630:android:d11effa1d67dadbff4acbf",
+        "android_client_info": {
+          "package_name": "com.bahrincode.qrcodepark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115848099630-6ka4uun8ij71umqcrsb6apdu7bmt4nhv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bahrincode.qrcodepark",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "115848099630-k589ij1pq08a8to8gpqff2eubd3frems.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFZMFO8cf_E-Vn_NTYN58SJ0wZeWeZqf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115848099630-k589ij1pq08a8to8gpqff2eubd3frems.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "115848099630-88qf0ak9f297u273ekntlqljha2ho3u7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bahrincode.qrcodepark"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
